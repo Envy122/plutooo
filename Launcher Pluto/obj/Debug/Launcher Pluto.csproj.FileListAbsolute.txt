@@ -1,0 +1,13 @@
+F:\Launcher Pluto\bin\Debug\Launcher Pluto.exe.config
+F:\Launcher Pluto\bin\Debug\Launcher Pluto.exe
+F:\Launcher Pluto\bin\Debug\Launcher Pluto.pdb
+F:\Launcher Pluto\obj\Debug\Launcher Pluto.csproj.AssemblyReference.cache
+F:\Launcher Pluto\obj\Debug\Launcher_Pluto.Form1.resources
+F:\Launcher Pluto\obj\Debug\Launcher_Pluto.Properties.Resources.resources
+F:\Launcher Pluto\obj\Debug\Launcher_Pluto.UserControl1.resources
+F:\Launcher Pluto\obj\Debug\Launcher_Pluto.UserControl2.resources
+F:\Launcher Pluto\obj\Debug\Launcher_Pluto.UserControl3.resources
+F:\Launcher Pluto\obj\Debug\Launcher Pluto.csproj.GenerateResource.cache
+F:\Launcher Pluto\obj\Debug\Launcher Pluto.csproj.CoreCompileInputs.cache
+F:\Launcher Pluto\obj\Debug\Launcher Pluto.exe
+F:\Launcher Pluto\obj\Debug\Launcher Pluto.pdb
